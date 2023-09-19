@@ -2,7 +2,7 @@
 $SMTPServer = "smtp.gmail.com"
 $SMTPPort = 587
 $SMTPUsername = "vidheywebsites@gmail.com"
-$SMTPPassword = "reniyzofvlbbaxuw"
+$SMTPPassword = "//password"
 $SenderEmail = "vidheywebsites@gmail.com"
 $RecipientEmail = "vidhey.bhogadi2003@gmail.com"
 $Subject = "Alert From VIDHEY_USB"
